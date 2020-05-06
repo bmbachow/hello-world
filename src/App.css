@@ -1,7 +1,18 @@
 .App {
   text-align: center;
 }
-
+.App img{
+  margin-top: 20px;
+}
+.App li{
+  list-style: none;
+}
+.App ul{
+  padding-left: 0;
+}
+.App h2{
+  text-align: center;
+}
 .App-logo {
   height: 40vmin;
   pointer-events: none;
